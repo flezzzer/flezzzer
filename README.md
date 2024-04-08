@@ -1,4 +1,6 @@
 ### Hi there 👋
+![image](https://github.com/flezzzer/flezzzer/assets/141737861/86e4647a-5a35-4bdc-a2e4-ef1ffde72ee2)
+
 
 <!--
 **flezzzer/flezzzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
